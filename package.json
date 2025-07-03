@@ -1,0 +1,22 @@
+{
+  "name": "playwright_",
+  "version": "1.0.0",
+  "description": "attempting mission impossible",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigeltheyounger/Playwright_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nigeltheyounger/Playwright_/issues"
+  },
+  "homepage": "https://github.com/nigeltheyounger/Playwright_#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10"
+  }
+}
